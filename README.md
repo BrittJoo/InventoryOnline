@@ -1,1 +1,1 @@
-InventoryOnline
+Inventory System
